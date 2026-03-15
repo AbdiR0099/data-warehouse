@@ -20,6 +20,9 @@ GO
 IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DataWarehouse')
 BEGIN
 		ALTER DATABASE DataWarehouse SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+		-- Set Single User such that only one person is allowed
+		-- Rollback so that connections are killed and roll back happens
+		-- Combining these such that the database is free from all activity
 		DROP DATABASE DataWarehouse;
 END;
 GO
