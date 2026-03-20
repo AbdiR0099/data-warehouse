@@ -5,7 +5,7 @@ This project demonstrates the end-to-end engineering of a robust Data Warehouse 
 
 The pipeline strictly adheres to the **Medallion Architecture** (Bronze, Silver, Gold), ensuring data traceability, quality, and analytical efficiency.
 
-![High Level Architecture](assets/HighLevelArchitecture.png)
+![High Level Architecture](assets/HighLevelArchitecture1.png)
 
 ## 🛠️ Technology Stack
 * **Database Engine:** Microsoft SQL Server
