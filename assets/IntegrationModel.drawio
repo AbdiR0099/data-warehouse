@@ -92,7 +92,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kRccNkf5ZK8HbJzeTRhK-29" edge="1" parent="1" source="kRccNkf5ZK8HbJzeTRhK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="kRccNkf5ZK8HbJzeTRhK-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="468" y="370" />
+              <mxPoint x="468" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kRccNkf5ZK8HbJzeTRhK-30" edge="1" parent="1" source="kRccNkf5ZK8HbJzeTRhK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="kRccNkf5ZK8HbJzeTRhK-9">
           <mxGeometry relative="1" as="geometry" />
@@ -105,6 +110,24 @@
         </mxCell>
         <mxCell id="kRccNkf5ZK8HbJzeTRhK-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFCC99;align=center;verticalAlign=middle;rounded=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;ERP&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="635" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RwSvP1J0_czTBPRcfPmW-1" parent="1" style="text;html=1;strokeColor=#d6b656;fillColor=#CC0000;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" value="&lt;b&gt;CUSTOMER&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="130" x="165" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RwSvP1J0_czTBPRcfPmW-2" parent="1" style="text;html=1;strokeColor=#d6b656;fillColor=#CC0000;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" value="&lt;b&gt;CUSTOMER&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="130" x="640" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="RwSvP1J0_czTBPRcfPmW-3" parent="1" style="text;html=1;strokeColor=#d6b656;fillColor=#CC0000;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" value="&lt;b&gt;CUSTOMER&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="130" x="640" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="RwSvP1J0_czTBPRcfPmW-4" parent="1" style="text;html=1;strokeColor=#d6b656;fillColor=#80FF00;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" value="&lt;b&gt;PRODUCT&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="130" x="165" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="RwSvP1J0_czTBPRcfPmW-5" parent="1" style="text;html=1;strokeColor=#d6b656;fillColor=#80FF00;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" value="&lt;b&gt;PRODUCT&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="130" x="640" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="RwSvP1J0_czTBPRcfPmW-6" parent="1" style="text;html=1;strokeColor=#d6b656;fillColor=#990099;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" value="&lt;b&gt;SALES&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="130" x="-50" y="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
